@@ -52,6 +52,7 @@ export function defaultHidMap(): Object {
         38: "9",
         39: "0",
         40: "enter",
+        43: "\t",
         44: " ",
         45: "-",
         55: ".",
