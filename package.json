@@ -1,5 +1,5 @@
 {
-  "name": "usb-barcode-scanner",
+  "name": "olp-usb-barcode-scanner",
   "version": "1.0.1",
   "description": "A typed library for using USB barcode scanners in Node.",
   "main": "dist/index.js",
